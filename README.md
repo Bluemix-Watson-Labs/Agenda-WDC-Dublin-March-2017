@@ -33,8 +33,8 @@
 * 9:00 - 9:15 a.m.
   * Refreshments
 * 9:15 a.m. - 10:45 a.m.
-  * Retrieve and Rank App - Helen
-  * https://medium.com/@helenflam/retrieve-rank-492f6178dfcd#.hrqgi5w39
+  * Retrieve and Rank App - Helen and Herman 
+  * https://github.com/Bluemix-Watson-Labs/Retrieve-And-Rank-Lab
 * 10:45 a.m. - 10:55 a.m.
   * Break
 * 10:55 a.m. - 12:00 p.m.
