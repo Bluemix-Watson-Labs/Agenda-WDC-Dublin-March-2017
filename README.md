@@ -30,22 +30,22 @@
   * Lab: https://github.com/Bluemix-Watson-Labs/Natural-Language-Classifier-Lab
 
 ## Day Two
-* 9:00 - 9:15 a.m.
+* 8:00 - 8:15 a.m.
   * Refreshments
-* 9:15 a.m. - 10:45 a.m.
+* 8:15 a.m. - 9:45 a.m.
   * Retrieve and Rank App - Helen and Herman 
   * https://github.com/Bluemix-Watson-Labs/Retrieve-And-Rank-Lab
-* 10:45 a.m. - 10:55 a.m.
+* 9:45 a.m. - 9:55 a.m.
   * Break
-* 10:55 a.m. - 12:00 p.m.
+* 9:55 a.m. - 11:00 p.m.
   * Conversation App - Helen  
   * Overview: https://github.com/Bluemix-Watson-Labs/conversation-api-overview
   * Lab: https://medium.com/ibm-watson-developer-cloud/create-your-slack-bot-with-conversation-api-node-red-a5bf82aad24d#.8eybo5632
   * * extra if you're finished Lab 1: https://www.ibm.com/blogs/watson/2016/07/build-chat-bot/
-* 12:00 p.m. - 12:40 p.m.
+* 11:00 p.m. - 12:00 p.m.
   * Lunch
-* 12:40 p.m. - 1:50 p.m.
+* 11:40 p.m. - 12:50 p.m.
   * Visual Recognition App - Helen
   * https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69#.x4xfy13j9
-* 1:50 p.m.  - 4:30 p.m.
+* 12:50 p.m.  - 3:00 p.m.
 * Hackathon & presentation
