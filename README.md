@@ -44,7 +44,7 @@
   * * extra if you're finished Lab 1: https://www.ibm.com/blogs/watson/2016/07/build-chat-bot/
 * 11:00 a.m. - 12:00 p.m.
   * Lunch
-* 11:40 p.m. - 12:50 p.m.
+* 11:40 a.m. - 12:50 p.m.
   * Visual Recognition App - Helen
   * https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69#.x4xfy13j9
 * 12:50 p.m.  - 3:00 p.m.
