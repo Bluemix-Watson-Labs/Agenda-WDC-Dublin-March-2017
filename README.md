@@ -19,7 +19,7 @@
   * Alchemy App continue
 * 1:30 p.m. - 2:45 p.m.
   * Speech-to-text, text-to-speech: Helen
-  * (i)Text-to-speech lab:	http://watsonttslab.mybluemix.net
+  * (i)Text-to-speech lab:	https://medium.com/@helenflam/text-to-speech-node-red-tutorial-dfe8de793dc2#.bdv90lk80
   * (ii) Speech-to-text lab: https://github.com/Bluemix-Watson-Labs/speech-to-text
 * 2:45 p.m. - 2:55 p.m.
   * Break
