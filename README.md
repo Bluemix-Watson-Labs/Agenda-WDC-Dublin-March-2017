@@ -48,4 +48,4 @@
   * Visual Recognition App - Helen
   * https://medium.com/@helenflam/quickly-exploring-the-visual-recognition-api-using-node-red-db11680bf69#.x4xfy13j9
 * 12:50 p.m.  - 3:00 p.m.
-* Hackathon & presentation
+  * Hackathon & presentation
