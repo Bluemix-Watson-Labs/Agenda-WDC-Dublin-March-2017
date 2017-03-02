@@ -29,7 +29,7 @@
   * NLC App: Helen & Herman
   * Lab: https://github.com/Bluemix-Watson-Labs/Natural-Language-Classifier-Lab
 
-## Day Two
+## Day Two: March 3rd, 2017
 * 8:00 - 8:15 a.m.
   * Refreshments
 * 8:15 a.m. - 9:45 a.m.
